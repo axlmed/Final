@@ -1,0 +1,1 @@
+Im at the end of my foundations class in "theodinproject.com" website. Final assignment of the CSS part is to create a website using what I learned. Here goes nothing. :)
